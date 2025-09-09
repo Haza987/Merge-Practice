@@ -2,7 +2,7 @@ namespace Merge_Practice
 {
     public class WeatherForecast
     {
-        public DateOnly Date { get; set; }
+        public decimal Date { get; set; }
 
         public int TemperatureC { get; set; }
 
